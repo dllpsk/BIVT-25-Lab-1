@@ -61,9 +61,9 @@ namespace Lab1
             {
                 answer = c;
             }
-                // end
+            // end
 
-                return answer;
+            return answer;
         }
         public double Task5(double x)
         {
@@ -78,9 +78,9 @@ namespace Lab1
             {
                 answer = Math.Pow(x, 2) - 1;
             }
-                // end
+            // end
 
-                return answer;
+            return answer;
         }
         public bool Task6(double x, double y)
         {
@@ -148,3 +148,4 @@ namespace Lab1
         }
     }
 }
+
